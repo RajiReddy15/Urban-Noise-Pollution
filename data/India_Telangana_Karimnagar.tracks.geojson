@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[78.9335974,18.67853]},"properties":{"pleasantness":null,"pk_track":30494,"track_uuid":"aa1e13d0-2999-4f4d-b63d-d5dad96e8b98","gain_calibration":0.0,"time_ISO8601":"2017-12-30T16:21:28+05:30","time_epoch":1514631088000,"noise_level":61.26,"time_length":5.0,"tags":null,"party_tag":null}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[78.856843,18.4756843],[78.856843,18.47605]]},"properties":{"pleasantness":null,"pk_track":108086,"track_uuid":"5b670502-a546-4528-aadb-d096978fd6d8","gain_calibration":0.0,"time_ISO8601":"2018-08-09T17:17:33+05:30","time_epoch":1533815253000,"noise_level":62.07,"time_length":69.0,"tags":null,"party_tag":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[78.8593199,18.4736366]},"properties":{"pleasantness":100.0,"pk_track":108085,"track_uuid":"26134eae-81b6-407b-91d9-f29c18a75b4a","gain_calibration":0.0,"time_ISO8601":"2018-08-09T17:19:04+05:30","time_epoch":1533815344000,"noise_level":68.66,"time_length":17.0,"tags":["chatting","works","air_traffic"],"party_tag":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[79.088851931,18.499580598]},"properties":{"pleasantness":null,"pk_track":108421,"track_uuid":"a11c7e26-f38d-43b3-94c7-4583a37b5777","gain_calibration":0.0,"time_ISO8601":"2018-08-10T20:07:00+05:30","time_epoch":1533911820000,"noise_level":65.65,"time_length":7.0,"tags":null,"party_tag":null}}]
+}

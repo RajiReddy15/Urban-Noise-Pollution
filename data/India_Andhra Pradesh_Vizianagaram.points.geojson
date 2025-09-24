@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[83.0795896,17.9321441,0]},"properties":{"pk_track":110914,"time_ISO8601":"2018-08-20T01:16:39+05:30","time_epoch":1534707999000,"time_gps_ISO8601":"2018-08-20T01:16:37+05:30","time_gps_epoch":1534707997000,"noise_level":13.909773,"speed":0.0,"orientation":0.0,"accuracy":2000.0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[83.4224055,18.7754086,0]},"properties":{"pk_track":281473,"time_ISO8601":"2020-09-24T22:53:54+05:30","time_epoch":1600968234000,"time_gps_ISO8601":"2020-09-24T22:53:46+05:30","time_gps_epoch":1600968226000,"noise_level":70.14866,"speed":null,"orientation":null,"accuracy":39.6}}]
+}
