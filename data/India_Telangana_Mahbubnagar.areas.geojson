@@ -1,5 +1,0 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.891880729,16.716101855],[77.891764034,16.716166382],[77.89164734,16.716101855],[77.89164734,16.715972802],[77.891764034,16.715908276],[77.891880729,16.715972802],[77.891880729,16.716101855]]]},"properties":{"cell_q":291791,"cell_r":83902,"la50":58.00186627682018,"laeq":58.00186627682018,"lden":0.0,"mean_pleasantness":null,"measure_count":2,"first_measure_ISO_8601":"2018-05-25T07:00:11+05:30","first_measure_epoch":1527211811000,"last_measure_ISO_8601":"2018-05-25T07:00:12+05:30","last_measure_epoch":1527211812000,"leq_profile":[null,null,null,null,null,null,null,58.0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]}}]
-}
